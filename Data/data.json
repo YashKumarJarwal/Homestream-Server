@@ -1,0 +1,30 @@
+{
+    "videos": [
+      {
+        "serial_no": 1,
+        "title": "The Quantum Realm: Exploring the Unseen Dimensions",
+        "duration": "18:30"
+      },
+      {
+        "serial_no": 2,
+        "title": "Mysteries of the Deep Sea: Life Below the Surface",
+        "duration": "22:15"
+      },
+      {
+        "serial_no": 3,
+        "title": "Cybernetic Future: A Glimpse into AI and Robotics",
+        "duration": "27:50"
+      },
+      {
+        "serial_no": 4,
+        "title": "Space Odyssey: Journey Through the Cosmos",
+        "duration": "30:05"
+      },
+      {
+        "serial_no": 5,
+        "title": "Eternal Sunshine: Understanding Memory and Perception",
+        "duration": "24:40"
+      }
+    ]
+  }
+  
